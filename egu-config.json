@@ -1,0 +1,8 @@
+{
+  "clientDir": "pokeworld",
+  "updateList": "http://game.pokeworld.com.br/atualizador/update-list.json",
+  "installZeroTier": false,
+  "zeroTierNetId": "",
+  "startCmd": "start pokeworld.exe __kogstudios_original_service__",
+  "isDev": true
+}

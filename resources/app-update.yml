@@ -1,0 +1,6 @@
+owner: igorCoutoOliveira
+repo: launcher_atualizador
+provider: github
+private: false
+releaseType: release
+updaterCacheDirName: atualizador-updater
